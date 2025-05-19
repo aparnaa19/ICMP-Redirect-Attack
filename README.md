@@ -1,4 +1,4 @@
-# ICMP Redirect Attack & MITM Lab (SEED Labs)
+# ICMP Redirect Attack & MITM Lab 
 
 This project demonstrates an ICMP Redirect Attack where the attacker convinces a victim to change its routing table, redirecting traffic through a malicious router. It also performs a man-in-the-middle (MITM) attack by altering TCP payloads using Scapy.
 
@@ -27,17 +27,7 @@ This project demonstrates an ICMP Redirect Attack where the attacker convinces a
 - Modified TCP payloads confirmed via netcat session
 - System configurations like `send_redirects` and `ip_forwarding` influenced success
 
-## 🖼️ Screenshots
-Optionally include routing table before/after, traceroute paths, and MITM modified messages.
 
-## 📁 Files
-- `icmp-redirect-report.pdf` – Full documentation with screenshots and payload code
-
-## 📄 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
-
----
 
 ## 🔗 References
 - [SEED Labs - ICMP Redirect Attack](https://seedsecuritylabs.org/Labs_20.04/Networking/ICMP_Redirect/)
