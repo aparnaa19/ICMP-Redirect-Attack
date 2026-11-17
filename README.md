@@ -1,4 +1,4 @@
-# ICMP Redirect Attack & MITM Lab 
+# ICMP Redirect Attack & MITM 
 
 This project demonstrates an ICMP Redirect Attack where the attacker convinces a victim to change its routing table, redirecting traffic through a malicious router. It also performs a man-in-the-middle (MITM) attack by altering TCP payloads using Scapy.
 
